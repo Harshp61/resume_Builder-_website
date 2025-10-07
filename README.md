@@ -1,6 +1,6 @@
 # 🎨 Modern 3D Resume Builder
 
-A beautiful, modern resume builder with stunning 3D effects, glass morphism design, and professional PDF export functionality.
+A beautiful, modern resume builder with stunning 3D effects, glass morphism design, and professional PDF export functionality..
 
 ![Resume Builder Preview](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9.0-blue?style=for-the-badge&logo=typescript)
@@ -188,4 +188,5 @@ If you have any questions or need help:
 ---
 
 **Made with ❤️ and React**
+
 
